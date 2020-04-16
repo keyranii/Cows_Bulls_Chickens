@@ -1,4 +1,4 @@
-#### Author: Divya S K
+#### Author: Divya S Kirani
 
 # Project Description
 
